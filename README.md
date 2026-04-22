@@ -6,7 +6,7 @@
  
 <div align="center">
 
- ${\textsf{\color{#001a8a}YOU CAN}}$  ${\textsf{\color{#1316c2}CALL ME }}$ ${\textsf{\color{#1316c2}ASS PANCAKES, SOLDIER OR FLANKER}}$
+ ${\textsf{\color{#0016ff}YOU CAN}}$  ${\textsf{\color{#1316c2}CALL ME }}$ ${\textsf{\color{#1316c2}ASS PANCAKES, SOLDIER OR FLANKER}}$
 
 
  
@@ -17,7 +17,7 @@
 
 <img width="520" height="280" alt="image" src="https://github.com/user-attachments/assets/4f064ada-1102-490a-acdc-2787acc91033" />
 
-
+<br/>
 
 <div align="center">
 
@@ -27,7 +27,7 @@
 
 <details align="center">
 
-<summary> ${\textsf{\color{#ff3030}﹕ 𝄞 ˶ Blinkies/Stamps ˶ ༉ ﹕}}$ !! </summary
+<summary> ${\textsf{\color{#ff3030}﹕  BLINKIES/STAMPS }}$ !! </summary
 
  <a href="" target="_blank"><img width="120" src="https://64.media.tumblr.com/dee5bc49b0d93be85966fca1a7697963/1881390cbd6f2163-20/s500x750/abdb7ad9156fdcddd84956705406d64da4e1627f.gifv"></a>
 <a href="" target="_blank"><img width="120" src="https://64.media.tumblr.com/42d571589c0ca748cda2e2bab175b93a/ff1d8ea056012e5c-96/s100x200/be48d77ea6e2430c75cbd9e92dc40ce6a970c929.gifv"></a>
@@ -139,3 +139,16 @@
 <a href="" target="_blank"><img width="200" src="https://64.media.tumblr.com/a4cca1232b1f15b791c5e7d5b6eaf7d5/5732e589548c1c67-af/s250x400/a7f539d2694a3a1fac42de151bc3b7cb8e5ec58a.gifv"></a>
 <a href="" target="_blank"><img width="200" src="https://64.media.tumblr.com/b39997f126ac7d199056e8a1cfd85824/5732e589548c1c67-8d/s250x400/e4564e32bc69f232be6d4abff3a9bf6d197e2116.gifv"></a>
 <a href="" target="_blank"><img width="200" src="https://64.media.tumblr.com/704822bfadd79966b6bb1dae61fa4171/eff8710e2af48aeb-35/s250x400/12b0b249958aabd65f65a070060a82ac3324e754.gifv"></a>
+
+
+</details>
+
+</div>
+
+<br/>
+<img width="520" height="280" alt="image" src="https://github.com/user-attachments/assets/dee857ad-7373-402e-a7a9-2be715f838be" />
+
+
+
+
+
