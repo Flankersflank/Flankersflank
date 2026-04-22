@@ -1,11 +1,33 @@
 
-> ${\textsf{\color{#ff3d3d}ᨳິ    ׂ     𓈒  welcome to my github!! (˶ᵔ ᵕ ᵔ˶) ྀ ͚}}$
+<div align="center">
 
- </details>
+ ${\textsf{\color{#ff3030}WELCOME }}$  ${\textsf{\color{#300606}TO  }}$ ${\textsf{\color{#9f1111}MY GITHUB}}$
+
+ 
+<div align="center">
+
+ ${\textsf{\color{#001a8a}YOU CAN}}$  ${\textsf{\color{#1316c2}CALL ME }}$ ${\textsf{\color{#1316c2}ASS PANCAKES, SOLDIER OR FLANKER}}$
+
+
+ 
+<div align="center">
+
+ ${\textsf{\color{#ff3030} -->  }}$     [MY ATA](https://flankersflankk.atabook.org)  ${\textsf{\color{#001a8a} -->  }}$     [MY STRAW](https://flankersflankk.atabook.org)
+
+
+<img width="520" height="280" alt="image" src="https://github.com/user-attachments/assets/4f064ada-1102-490a-acdc-2787acc91033" />
+
+
+
+<div align="center">
+
+
+
+</details>
 
 <details align="center">
 
-<summary> ${\textsf{\color{#ff3d3d}﹕ 𝄞 ˶ Blinkies/Stamps ˶ ༉ ﹕}}$ !! </summary
+<summary> ${\textsf{\color{#ff3030}﹕ 𝄞 ˶ Blinkies/Stamps ˶ ༉ ﹕}}$ !! </summary
 
  <a href="" target="_blank"><img width="120" src="https://64.media.tumblr.com/dee5bc49b0d93be85966fca1a7697963/1881390cbd6f2163-20/s500x750/abdb7ad9156fdcddd84956705406d64da4e1627f.gifv"></a>
 <a href="" target="_blank"><img width="120" src="https://64.media.tumblr.com/42d571589c0ca748cda2e2bab175b93a/ff1d8ea056012e5c-96/s100x200/be48d77ea6e2430c75cbd9e92dc40ce6a970c929.gifv"></a>
@@ -117,7 +139,3 @@
 <a href="" target="_blank"><img width="200" src="https://64.media.tumblr.com/a4cca1232b1f15b791c5e7d5b6eaf7d5/5732e589548c1c67-af/s250x400/a7f539d2694a3a1fac42de151bc3b7cb8e5ec58a.gifv"></a>
 <a href="" target="_blank"><img width="200" src="https://64.media.tumblr.com/b39997f126ac7d199056e8a1cfd85824/5732e589548c1c67-8d/s250x400/e4564e32bc69f232be6d4abff3a9bf6d197e2116.gifv"></a>
 <a href="" target="_blank"><img width="200" src="https://64.media.tumblr.com/704822bfadd79966b6bb1dae61fa4171/eff8710e2af48aeb-35/s250x400/12b0b249958aabd65f65a070060a82ac3324e754.gifv"></a>
-<a href="" target="_blank"><img width="200" src="https://64.media.tumblr.com/ad126e3a51bf5ed41cfc5f7af96032a5/9d6f516b1fd1df3f-07/s250x400/dc2a0418f57f77f5b32025581d9c509dc07158c1.gifv"></a>
-<a href="" target="_blank"><img width="200" src="https://64.media.tumblr.com/52a1cff6f4ad0b38b26cbcc1d8b2c20a/8f3bbc1f57d14f87-76/s250x400/0004c8fc36878402bc69421779b5a679e43b76f6.gifv"></a>
-<a href="" target="_blank"><img width="200" src="https://64.media.tumblr.com/3202dadc71198983fdb958372fb64616/e6c3d6e24bb9e481-25/s250x400/220ab9d6cca95b6b95444112c25d497f8b148d44.gifv"></a>
-<a href="" target="_blank"><img width="200" src="https://64.media.tumblr.com/2a6fe5c862afd47641dfae92be8cbca1/55edfcb49ec99f52-79/s250x400/46477f4a1cbea874688acc93f637aa4a4a9e73b7.gifv"></a>
