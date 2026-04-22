@@ -12,7 +12,7 @@
  
 <div align="center">
 
- ${\textsf{\color{#ff3030} -->  }}$     [MY ATA](https://flankersflankk.atabook.org)  ${\textsf{\color{#001a8a} -->  }}$     [MY STRAW](https://flankersflankk.atabook.org)
+ ${\textsf{\color{#ff3030} -->  }}$     [MY ATA](https://flankersflankk.atabook.org)  ${\textsf{\color{#001a8a} -->  }}$     [MY STRAW](https://freakfortress.straw.page)
 
 
 <img width="520" height="280" alt="image" src="https://github.com/user-attachments/assets/4f064ada-1102-490a-acdc-2787acc91033" />
