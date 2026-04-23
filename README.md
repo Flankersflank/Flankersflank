@@ -148,6 +148,17 @@
 <br/>
 <img width="520" height="280" alt="image" src="https://github.com/user-attachments/assets/dee857ad-7373-402e-a7a9-2be715f838be" />
 
+<br/>
+
+</details>
+
+<details align="center">
+
+<summary> ${\textsf{\color{#0016ff}﹕  FRIEND STUFF OK WIP }}$ !! </summary
+
+<a href="" target="_blank"><img width="400" src="https://github.com/user-attachments/assets/807705fa-0a44-41fc-ad32-de6e4dcab44b"></a>
+
+
 
 
 
