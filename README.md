@@ -30,6 +30,7 @@
 <summary> ${\textsf{\color{#ff3030}﹕  STAMPS }}$ !! </summary
 
  <a href="" target="_blank"><img width="120" src="https://64.media.tumblr.com/c5162182639fdb968765948da2b79ae6/c6ed85cd4f2f3d6e-76/s640x960/669080f6267ea8232be393de811eaeda12f0f5e5.gifv"></a>
+ 
   <a href="" target="_blank"><img width="120" src="https://64.media.tumblr.com/c8da396b410ac90ac9082b81381ffa3a/843b931af0c96714-7e/s100x200/5476a6ed8596d2bab8438bc6e941a9c661d348ac.gifv"></a>
   <a href="" target="_blank"><img width="120" src="https://64.media.tumblr.com/e703d33e259b9c5f63584afb73a240e8/38a055a3883c4449-ac/s100x200/24331c4b6cddfbbf746f5e18d12bf788790785b4.pnj"></a>
 <a href="" target="_blank"><img width="120" src="https://64.media.tumblr.com/8f0160e27919f49a31cc9dba46a77134/9302e8d98e3659fc-6c/s250x400/d09d895747b6a0e07d2ea4826ccd254abd1bb654.pnj"></a>
